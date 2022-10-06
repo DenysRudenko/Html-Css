@@ -5,3 +5,19 @@ div {
 .element {
     color: red;
 }
+
+.big {
+    color:black;
+}
+
+.wrapper .element {
+    color: orange;
+}
+
+#second {
+    color: yellow;
+}
+
+#second.second{
+    color: green;
+}
